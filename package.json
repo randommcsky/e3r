@@ -1,0 +1,16 @@
+{
+  "name": "WetWorldlyOutcomes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node proxied.js dzheyden1 5000 1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mineflayer": "^3.3.1",
+    "request": "^2.88.2"
+  }
+}

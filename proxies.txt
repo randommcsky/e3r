@@ -1,0 +1,5 @@
+Enter your proxies here in this ip:port or username:password@ip:port format. Remove any non-proxies (i.e. this text) prior to running. This file will only take effect when using proxied.js.
+Make sure each proxy is on a new line
+Just
+Like
+This
